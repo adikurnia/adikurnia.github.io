@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://adikurnia.github.io
+title: Ona's Stuff
+email: kurniawan.uchiha01@gmail.com
+author: Adi Kurniawan
+description: This is another try to build my own website, hope this is work, lol
+paginate: 3
+google_analytics: 
